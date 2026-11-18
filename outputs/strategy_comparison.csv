@@ -1,0 +1,4 @@
+strategy,weeks_understaffed,worst_gap_FTE,peak_coverage_%,total_hires,avg_overstaff_FTE,post_peak_overstaff_FTE
+Reactive hiring,15,-40.6,72.8,50,3.4,1.1
+Planned hiring (lead + training ahead),0,1.5,105.5,50,17.2,28.1
+Planned + flex (30 temps for the peak),0,1.5,106.8,60,11.5,9.5
